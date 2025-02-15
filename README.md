@@ -44,9 +44,6 @@ Este é um projeto simples que gera uma paleta de cinco cores aleatórias sempre
 2. Clique no botão "Gerar nova paleta".
 3. Veja cinco cores aleatórias aparecerem na tela.
 
-## 📸 Captura de Tela
-![Exemplo do Projeto](https://via.placeholder.com/600x400?text=Paleta+de+Cores)
-
 ## 📜 Licença
 Este projeto está licenciado sob a **MIT License** - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
@@ -62,7 +59,7 @@ Sinta-se à vontade para contribuir com melhorias! Basta seguir os passos:
 Caso tenha alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato!
 
 - **Seu Nome** - [seu-email@example.com](mailto:seu-email@example.com)
-- [LinkedIn](https://linkedin.com/in/seu-perfil)
-- [GitHub](https://github.com/seu-usuario)
+- [LinkedIn](https://linkedin.com/in/ewerton-rodrigues)
+- [GitHub](https://github.com/ewertondrigues02)
 
 
